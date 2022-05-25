@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://henok-1011.github.io/csb-c41n52/static/css/main.25fc59c9.chunk.css",
+    "main.js": "https://henok-1011.github.io/csb-c41n52/static/js/main.154c4b2b.chunk.js",
+    "main.js.map": "https://henok-1011.github.io/csb-c41n52/static/js/main.154c4b2b.chunk.js.map",
+    "runtime-main.js": "https://henok-1011.github.io/csb-c41n52/static/js/runtime-main.f4863009.js",
+    "runtime-main.js.map": "https://henok-1011.github.io/csb-c41n52/static/js/runtime-main.f4863009.js.map",
+    "static/js/2.7839a0f4.chunk.js": "https://henok-1011.github.io/csb-c41n52/static/js/2.7839a0f4.chunk.js",
+    "static/js/2.7839a0f4.chunk.js.map": "https://henok-1011.github.io/csb-c41n52/static/js/2.7839a0f4.chunk.js.map",
+    "index.html": "https://henok-1011.github.io/csb-c41n52/index.html",
+    "static/css/main.25fc59c9.chunk.css.map": "https://henok-1011.github.io/csb-c41n52/static/css/main.25fc59c9.chunk.css.map",
+    "static/js/2.7839a0f4.chunk.js.LICENSE.txt": "https://henok-1011.github.io/csb-c41n52/static/js/2.7839a0f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4863009.js",
+    "static/js/2.7839a0f4.chunk.js",
+    "static/css/main.25fc59c9.chunk.css",
+    "static/js/main.154c4b2b.chunk.js"
+  ]
+}
